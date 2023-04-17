@@ -1,0 +1,33 @@
+.container7 {
+    height: 100vh;
+    background-image: url(../PsdImages/sec7BackgroundImage.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: #a39696;
+}
+
+.section7 {
+    width: 907px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 338px;
+}
+
+.section7 h1 {
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 15px;
+    margin-bottom: 2px;
+}
+
+.section7 p {
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 2px;
+    font-size: 2rem;
+}

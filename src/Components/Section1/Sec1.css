@@ -1,0 +1,50 @@
+.container2 {
+    height: 100vh;
+    background-image: url(../PsdImages/2ndSecBack.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.div1 {
+    width: 540px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1 h1 {
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 36px;
+}
+
+.div1 p {
+    text-align: center;
+    margin-top: -15px;
+}
+
+.main-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 232px;
+}
+
+.main-list-items {
+    width: 405px;
+}
+
+.main-list h2 {
+    font-weight: bold;
+    cursor: pointer;
+}
+.main-list p {
+    width: 240px;
+    margin: auto;
+    cursor: pointer;
+}

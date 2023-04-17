@@ -1,0 +1,37 @@
+.container4 {
+    height: 100vh;
+    background-image: url(../PsdImages/sec4BackgroundImage.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.section4 {
+    margin-left: 57px;
+    position: relative;
+    top: 188px;
+    width: 447px;
+}
+
+.section4 h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 3rem;
+}
+
+/* .section4 p {
+    width: 500px;
+} */
+
+.btn button{
+    width: 211px;
+    padding: 11px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-weight: bolder;
+    color: #a39696;
+    cursor: pointer;
+    margin-top: 9px;
+}

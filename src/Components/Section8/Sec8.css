@@ -1,0 +1,63 @@
+.container9 {
+    height: 88vh;
+    background-image: url(../PsdImages/sec9BackgroundImage.png);
+    background-size: 100vw 88vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: #a39696;
+}
+
+.section9 {
+    display:  flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -1px;
+    position: relative;
+    top: 70px;
+}
+
+.footer1 {
+    width: 386px;
+}
+
+.footer2 {
+    position: relative;
+    top: 32px;
+}
+
+.footer2 h1,p {
+    cursor: pointer;
+}
+
+.footer3 {
+    position: relative;
+    top: 32px;
+}
+
+.footer3 h1,p {
+    cursor: pointer;
+}
+
+.footer4 {
+    position: relative;
+    top: 28px;
+}
+
+.footer4 h1 {
+    position: relative;
+    left: 10px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.social img,span {
+    cursor: pointer;
+}
+
+.social img {
+    margin-right: 18px;
+}

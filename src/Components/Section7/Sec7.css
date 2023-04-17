@@ -1,0 +1,56 @@
+.container8 {
+    height: 88vh;
+    background-image: url(../PsdImages/sec8BackgroundImage.png);
+    background-size: 100vw 88vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.section8 {
+    width: 775px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 70px;
+}
+
+.section8 h1 {
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+.section8 p {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 87px;
+}
+
+.form input {
+    width: 450px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 24px;
+    font-size: 1rem;
+    padding-left: 24px;
+}
+
+.form button {
+    width: 118px;
+    background: white;
+    padding: 12px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    color: #a39696;
+}

@@ -1,0 +1,38 @@
+.container5 {
+    height: 100vh;
+    background-image: url(../PsdImages/sec5BackgroundImage.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: #a39696;
+}
+
+.section5 {
+    width: 447px;
+    position: relative;
+    top: 188px;
+    left: 870px
+}
+
+.section5 h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 3rem;
+}
+
+.btn5 button {
+    width: 211px;
+    padding: 11px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-weight: bolder;
+    color: white;
+    background-color: #a39696;
+    cursor: pointer;
+    margin-top: 9px;
+}
+
+.btn5 button:hover {
+    background-color: #bb9c9c;
+}

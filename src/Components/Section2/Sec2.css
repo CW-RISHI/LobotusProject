@@ -1,0 +1,28 @@
+.container3 {
+    height: 100vh;
+    background-image: url(../PsdImages/sec3BackgroundImage.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: #a39696;
+}
+
+.main-container {
+    width: 540px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container h1 {
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 51px;
+}
+
+.main-container p {
+    text-align: center;
+    margin-top: -15px;
+}

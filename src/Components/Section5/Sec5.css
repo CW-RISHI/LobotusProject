@@ -1,0 +1,53 @@
+.container6 {
+    height: 100vh;
+    background-image: url(../PsdImages/sec6BackgroundImage.png);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.section6 {
+    width: 540px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section6 h1 {
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-top: 51px;
+}
+
+.section6 p {
+    text-align: center;
+    margin-top: -15px;
+}
+
+.btn6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 246px;
+    margin-left: 48px;
+}
+
+.btn6 button {
+    width: 211px;
+    padding: 11px;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    font-weight: bolder;
+    color: white;
+    background-color: #a39696;
+    cursor: pointer;
+}
+
+.btn6 button:hover {
+    background-color: #bb9c9c;
+}
